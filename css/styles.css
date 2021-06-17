@@ -1,0 +1,309 @@
+/* Home Page */
+#home .bg-dark{
+  background: #0B3A4D!important;
+}
+
+#home #hero{
+  background-image: url(../img/background.png);
+  background-size: cover;
+  background-position: 50% 20%;
+}
+#home .navbar{
+  font-family: 'Poppins', sans-serif;
+}
+#home h1{
+  font-family: 'Lora', serif;
+  font-size: 4rem;
+  color: #0B3A4D!important;
+}
+#home p{
+  font-family: 'Poppins', sans-serif;
+  color: #BFA285!important;
+}
+#home .badge{
+  background: #0B3A4D!important;
+  text-decoration: none;
+}
+#home footer{
+  font-family: 'Poppins', sans-serif;
+}
+
+
+
+/* Education Page */
+#education body{
+  background-color: #EDEDED!important;
+}
+
+#education .navbar{
+  font-family: 'Poppins', sans-serif;
+}
+
+#education .bg-dark{
+  background: #0B3A4D!important;
+}
+
+#education h1{
+  font-family: 'Lora', serif;
+  font-size: 4rem;
+  color: #B2935B!important;
+}
+
+#education h2{
+  font-family: 'Poppins', sans-serif;
+  font-size: 2.5rem;
+  color: #0B3A4D!important;
+}
+
+#education h5{
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.6rem;
+  color: #0B3A4D!important;
+}
+
+#education p{
+  font-family: 'Poppins', sans-serif;
+}
+
+#education .btn{
+  font-family: 'Poppins', sans-serif;
+  background-color: #B2935B!important;
+  border: none;
+}
+
+#education #icon-grid h2{
+  color: white!important;
+}
+
+#education #projects h2{
+  color: white!important;
+}
+
+#education #projects h3{
+  color: #B2935B!important;
+  font-family: 'Lora', serif;
+}
+#education .text-muted{
+  color: #C9C9C9!important;
+}
+
+#education footer{
+  font-family: 'Poppins', sans-serif;
+  margin-top: 5rem;
+}
+
+/* Experience Page */
+#experience body{
+  background-color: #EDEDED!important;
+}
+
+#experience .navbar{
+  font-family: 'Poppins', sans-serif;
+}
+
+#experience .bg-dark{
+  background: #0B3A4D!important;
+}
+#experience .progress{
+  height: 100%;
+}
+
+#experience h1{
+  font-family: 'Lora', serif;
+  font-size: 4rem;
+  color: #B2935B!important;
+}
+
+#experience h2{
+  font-family: 'Lora', serif;
+  font-size: 1.5rem;
+  color: #B2935B!important;
+}
+
+#experience h3{
+  font-family: 'Poppins', sans-serif;
+  font-size: 2.5rem;
+  color: white!important;
+}
+
+#experience p{
+  font-family: 'Poppins', sans-serif;
+  font-size: 0.9rem;
+  color: #0B3A4D!important;
+}
+
+#experience .badge{
+  font-family: 'Poppins', sans-serif;
+  font-size: 13px;
+}
+
+#experience .bg-secondary{
+  background: #0B3A4D!important;
+  color: #B2935B!important;
+}
+
+#experience .carousel-caption {
+  background: #ffffffe6;
+}
+
+#experience footer{
+  font-family: 'Poppins', sans-serif;
+  margin-top: 5rem;
+}
+
+
+
+/* Resume Page */
+#resume .bg-dark{
+  background: #0B3A4D!important;
+}
+
+#resume .navbar{
+  font-family: 'Poppins', sans-serif;
+}
+
+#resume .navbar ul{
+  list-style: none;
+}
+
+#resume h1{
+  font-family: 'Lora', serif;
+  font-size: 4rem;
+  color: #B2935B!important;
+}
+
+#resume h3{
+  font-family: 'Lora', serif;
+  font-size: 1.5rem;
+  color: #B2935B!important;
+}
+
+#resume h2{
+  font-family: 'Poppins', sans-serif;
+  font-size: 2.5rem;
+  color: #0B3A4D!important;
+}
+
+#resume h4{
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.3rem;
+  color: #0B3A4D!important;
+}
+
+#resume p, li, th, td{
+  font-family: 'Poppins', sans-serif;
+  font-size: 0.9rem;
+  color: #0B3A4D!important;
+}
+
+#resume body{
+  background: white!important;
+}
+
+#resume .linked{
+  text-decoration: none;
+  color: inherit;
+}
+
+#resume #tabular{
+  background-color: #0B3A4D;
+}
+
+#resume footer{
+  font-family: 'Poppins', sans-serif;
+  margin-top: 5rem;
+}
+
+/* Contact Page */
+#contact .bg-dark{
+  background: #0B3A4D!important;
+}
+
+#contact .navbar{
+  font-family: 'Poppins', sans-serif;
+}
+
+#contact p {
+  font-family: 'Poppins', sans-serif;
+  font-size: 0.9rem;
+  color: #0B3A4D!important;
+}
+
+#contact h1{
+  font-family: 'Lora', serif;
+  font-size: 4rem;
+  color: #B2935B!important;
+}
+
+#contact h2{
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.5rem;
+  color: #0B3A4D!important;
+}
+
+#contact h3{
+  font-family: 'Lora', serif;
+  font-size: 1.5rem;
+  color: #B2935B!important;
+}
+
+#contact .text{
+  font-family: 'Poppins', sans-serif;
+  color: white!important;
+}
+
+#contact .btn{
+  font-family: 'Poppins', sans-serif;
+  background-color: #B2935B!important;
+  border: none;
+}
+
+#contact footer{
+  font-family: 'Poppins', sans-serif;
+  margin-top: 5rem;
+}
+
+/* Education Page */
+#process body{
+  background-color: #EDEDED!important;
+}
+
+#process .navbar{
+  font-family: 'Poppins', sans-serif;
+}
+
+#process .bg-dark{
+  background: #0B3A4D!important;
+}
+
+#process h1{
+  font-family: 'Lora', serif;
+  font-size: 4rem;
+  color: #B2935B!important;
+}
+
+#process h3{
+  font-family: 'Poppins', sans-serif;
+  font-size: 2.5rem;
+  color: #B2935B!important;
+}
+
+#process p{
+  font-family: 'Poppins', sans-serif;
+}
+
+
+#education #projects h3{
+  color: #B2935B!important;
+  font-family: 'Lora', serif;
+}
+
+#process li{
+  color: #C9C9C9!important;
+  list-style: none;
+}
+
+#process footer{
+  font-family: 'Poppins', sans-serif;
+  margin-top: 5rem;
+}
